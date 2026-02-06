@@ -50,7 +50,8 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 ### 4.2 West Coast Pioneers  
 * **N.W.A.** – brought gangsta rap to the forefront with _Straight Outta Compton_ (1988).  
 * **Tupac Shakur (2Pac)** – poetic lyricism with political and emotional depth.  
-* **Ice Cube** and **Dr. Dre** – pushed West Coast sound into the mainstream.  
+* **Ice Cube** and **Dr. Dre** – pushed West Coast sound into the mainstream.
+
 
 ## 5. Elements of Style  
 
@@ -69,6 +70,7 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 ![U.S. Map](https://i.imgur.com/aLT8i1B.png)
 
 **Region**   | **Key Artists**            | **Notable Albums**  
+-------------|----------------------------|----------------------------------
 East Coast | Nas, Biggie, Wu-Tang Clan | Illmatic, Ready to Die, 36 Chambers  
 West Coast | Tupac, N.W.A., Ice Cube | All Eyez on Me, Straight Outta Compton  
 Midwest   | Common, Bone Thugs-N-Harmony | Resurrection, E. 1999 Eternal  
@@ -79,8 +81,8 @@ South     | Outkast, Geto Boys    | Southernplayalisticadillacmuzik
 By the late 1990s, the deaths of **Tupac Shakur** and **The Notorious B.I.G.** marked the tragic end of an era.  
 The industry shifted towards commercialization, with artists like **Jay-Z** and **Eminem** dominating charts.  
 
-Positives: Greater mainstream recognition, global spread of hip hop.  
-Negatives: Increasing commercialization, rise of formulaic “radio rap.”  
+* Positives: Greater mainstream recognition, global spread of hip hop.  
+* Negatives: Increasing commercialization, rise of formulaic “radio rap.”  
 
 ## 8. Modern Hip Hop  
 
