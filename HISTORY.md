@@ -52,7 +52,6 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 * **Tupac Shakur (2Pac)** – poetic lyricism with political and emotional depth.  
 * **Ice Cube** and **Dr. Dre** – pushed West Coast sound into the mainstream.
 
-
 ## 5. Elements of Style  
 
 ### 5.1 Lyrical Themes  
